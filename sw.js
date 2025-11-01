@@ -1,5 +1,5 @@
 /* B-Frame service worker – v1.0 */
-const CACHE = 'b-frame-v1.0';
+const CACHE = 'b-frame-v2.0';
 const APP_SHELL = [
   '/b-frame/',
   '/b-frame/index.html',
